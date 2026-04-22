@@ -10,9 +10,7 @@ https://your-vercel-link.vercel.app
 
 ## Preview
 
-> Add your screenshots below after uploading them to GitHub.
 
-```md
 <img width="1350" height="765" alt="Screenshot 1" src="https://github.com/user-attachments/assets/4f89d387-25f1-4bd2-987f-73d2d3f06576" />
 <img width="1349" height="768" alt="Screenshot 2" src="https://github.com/user-attachments/assets/ecb4aaaf-7a27-4be0-a29d-ce53e31a7c95" />
 <img width="1352" height="767" alt="Screenshot 3" src="https://github.com/user-attachments/assets/dcccdd03-db1b-4dc0-8e4a-713649b59d6b" />
@@ -22,8 +20,6 @@ https://your-vercel-link.vercel.app
 <img width="1355" height="765" alt="Screenshot 7" src="https://github.com/user-attachments/assets/45538030-f0d3-42ee-b3c6-e991f2444213" />
 
 
-
-```
 
 ---
 
